@@ -5,7 +5,7 @@
 . /your_real_path/ardnspod
 
 # Combine your token ID and token together as follows
-arToken="12345,7676f344eaeaea9074c123451234512d"
+arToken="322353,25271dc3a369512e9be71c3fe045a5d2"
 
 # Force to use third party API to get IP or not
 forceUseThirdApi=false
@@ -14,7 +14,7 @@ forceUseThirdApi=false
 # you can have multiple arDdnsCheck blocks
 
 # IPv4:
-arDdnsCheck "test.org" "subdomain"
+arDdnsCheck "midoubaba.cn" "ddns"
 
 # IPv6:
-arDdnsCheck "test.org" "subdomain6" 6
+arDdnsCheck "midoubaba.cn" "ddns6" 6
